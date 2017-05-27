@@ -1,6 +1,8 @@
 package com.projetotreinoacademia.treino.fragments;
 
+import android.app.AlertDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.widget.*;
@@ -21,6 +23,7 @@ public class ListaExerciciosFragment extends BaseFragment {
     private List<Exercicio> exercicios;
     private LinearLayoutManager mLayoutManager;
     private Context context;
+    ExercicioDAO exercicioDAO = new ExercicioDAO(context);
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle saveInstanceState){
@@ -60,8 +63,25 @@ public class ListaExerciciosFragment extends BaseFragment {
 
             @Override
             public void onClickExercicio(View view, int idx) {
-                Exercicio exercicio = exercicios.get(idx);
-                Toast.makeText(getContext(),"Exercicio: "+ exercicio.getDescricao(),Toast.LENGTH_LONG).show();
+                final Exercicio exercicio = exercicios.get(idx);
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(getContext());
+                alertDialogBuilder.setTitle("Atenção");
+                alertDialogBuilder.setMessage("Deseja excluir o item " + exercicio.getDescricao() +"?").setCancelable(false)
+                        .setNegativeButton("Não", new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog, int id) {
+                                dialog.cancel();
+                            }
+                        })
+                        .setPositiveButton("Sim", new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog, int id) {
+                                Toast.makeText(getContext(), "Treino excluído: " + exercicio.getDescricao(), Toast.LENGTH_LONG).show();
+                                exercicioDAO.excluir(exercicio);
+                                listarExercicios();
+                                dialog.cancel();
+                            }
+                        });
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
             }
         };
     }

@@ -35,7 +35,9 @@ public class ExercicioDAO implements ExercicioInterface {
 
     @Override
     public void excluir(Exercicio exercicio) {
-
+        SQLiteDatabase banco = bdOpenHelper.getWritableDatabase();
+        banco.delete("exercicio", "id=?", new String[]{String.valueOf(exercicio.getId())});
+        banco.close();
     }
 
     @Override
