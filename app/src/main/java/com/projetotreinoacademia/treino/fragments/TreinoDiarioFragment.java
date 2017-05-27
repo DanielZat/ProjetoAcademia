@@ -93,8 +93,8 @@ public class TreinoDiarioFragment extends BaseFragment {
     }
 
     private void exibirTreinoDiario(){
-        //Busca o treino diario
 
+        //Busca o treino diario
         TreinoDAO treinoDAO = new TreinoDAO(context);
         treino = treinoDAO.exibirTreinoDiario();
 
