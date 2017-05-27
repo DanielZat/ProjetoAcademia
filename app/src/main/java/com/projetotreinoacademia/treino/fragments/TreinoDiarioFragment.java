@@ -11,6 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.TextView;
 import android.widget.Toast;
 import com.projetotreinoacademia.R;
 import com.projetotreinoacademia.treino.adapter.TreinoDiarioAdapter;
@@ -28,12 +29,12 @@ public class TreinoDiarioFragment extends BaseFragment {
     private Context context;
     private TreinoDiarioFragmentListener mListener;
     private TreinoDiarioAdapter treinoDiarioAdapter;
-
+    private View view;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
-        View view = inflater.inflate(R.layout.fragment_treino_diario,container,false);
+        view = inflater.inflate(R.layout.fragment_treino_diario,container,false);
 
         recyclerView = (RecyclerView) view.findViewById(R.id.recyclerView);
 
@@ -96,6 +97,9 @@ public class TreinoDiarioFragment extends BaseFragment {
 
         TreinoDAO treinoDAO = new TreinoDAO(context);
         treino = treinoDAO.exibirTreinoDiario();
+
+        TextView textoTreino = (TextView) view.findViewById(R.id.lblNomeTreino);
+        textoTreino.setText("Treino de hoje: "+treino.getNome());
 
         treinoDiarioAdapter = new TreinoDiarioAdapter(getContext(), treino.getExercicios(), onClickExercicio());
         recyclerView.setAdapter(treinoDiarioAdapter);
