@@ -100,7 +100,7 @@ public class TreinoDiarioFragment extends BaseFragment {
 
         TextView textoTreino = (TextView) view.findViewById(R.id.lblNomeTreino);
 
-        if(treino.getNome().isEmpty()) {
+        if(treino.getNome() == null) {
             textoTreino.setText("Treino de hoje: Nenhum treino cadastrado");
         }
         else{
