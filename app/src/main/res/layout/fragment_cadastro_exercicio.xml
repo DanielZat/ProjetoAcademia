@@ -1,0 +1,91 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.projetotreinoacademia.treino.fragments.CadastroExercicioFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Descrição"
+            android:id="@+id/lblNomeTreino"
+            android:textStyle="bold"
+            android:textColor="@color/primary"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="30dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtNomeTreino"
+            android:layout_below="@+id/lblNomeTreino"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Repetições"
+            android:id="@+id/lblRepeticoes"
+            android:layout_below="@+id/txtNomeTreino"
+            android:layout_alignParentStart="true"
+            android:textColor="@color/primary"
+            android:textStyle="bold"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtRepeticoes"
+            android:layout_below="@+id/lblRepeticoes"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:inputType="text" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Carga (KG)"
+            android:id="@+id/lblCarga"
+            android:textColor="@color/primary"
+            android:textStyle="bold"
+            android:layout_below="@+id/txtRepeticoes"
+            android:layout_alignStart="@+id/txtRepeticoes" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/txtCarga"
+            android:layout_below="@+id/lblCarga"
+            android:layout_alignStart="@+id/lblCarga"
+            android:layout_alignEnd="@+id/txtRepeticoes" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Salvar"
+            android:id="@+id/btnFinalizar"
+            android:layout_marginBottom="28dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignStart="@+id/txtCarga"
+            android:layout_alignEnd="@+id/txtCarga"
+            style="@android:style/Widget.Material.Button.Colored" />
+
+    </RelativeLayout>
+
+</FrameLayout>

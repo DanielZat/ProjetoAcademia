@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Treine</string>
+    <string name="treino_diario">Treino Diário</string>
+    <string name="cadastro_exercicio">Cadastrar Exercício</string>
+    <string name="cadastro_treino">Cadastrar Treino</string>
+    <string name="exercicios_cadastrados">Exercícios cadastrados</string>
+    <string name="treinos_cadastrados">Treinos Cadastrados</string>
+    <string name="action_close">Sair</string>
+    <string name="sub_title_nav">Mobile Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

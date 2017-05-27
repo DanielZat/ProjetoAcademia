@@ -1,0 +1,68 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="14dp">
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Nome do Treino"
+        android:id="@+id/lblNomeTreino"
+        android:textStyle="bold"
+        android:textColor="@color/primary"
+        android:layout_marginTop="15dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtNomeTreino"
+        android:layout_below="@+id/lblNomeTreino"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Exercícios Disponíveis"
+        android:id="@+id/lblExercicios"
+        android:textStyle="bold"
+        android:textColor="@color/primary"
+        android:layout_below="@+id/txtNomeTreino"
+        android:layout_alignParentStart="true" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@android:color/transparent"
+        android:clipToPadding="false"
+        android:divider="@null"
+        android:dividerHeight="0dp"
+        android:listSelector="@android:color/transparent"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbars="vertical"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/btnFinalizar"
+        android:layout_below="@+id/lblExercicios"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Salvar"
+            android:id="@+id/btnFinalizar"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            style="@android:style/Widget.Material.Button.Colored" />
+
+
+    </RelativeLayout>
+
+</FrameLayout>
