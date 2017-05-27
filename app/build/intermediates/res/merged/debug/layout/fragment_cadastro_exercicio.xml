@@ -26,6 +26,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/txtNomeTreino"
+            android:inputType="text"
+            android:imeOptions="actionDone"
             android:layout_below="@+id/lblNomeTreino"
             android:layout_centerHorizontal="true"
             android:layout_marginLeft="15dp"
@@ -48,11 +50,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/txtRepeticoes"
+            android:inputType="text"
+            android:imeOptions="actionDone"
             android:layout_below="@+id/lblRepeticoes"
             android:layout_alignParentStart="true"
             android:layout_marginLeft="15dp"
-            android:layout_marginRight="15dp"
-            android:inputType="text" />
+            android:layout_marginRight="15dp" />
 
         <TextView
             android:layout_width="wrap_content"
