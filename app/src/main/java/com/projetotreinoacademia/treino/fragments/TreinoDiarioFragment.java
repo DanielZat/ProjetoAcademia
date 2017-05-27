@@ -99,7 +99,13 @@ public class TreinoDiarioFragment extends BaseFragment {
         treino = treinoDAO.exibirTreinoDiario();
 
         TextView textoTreino = (TextView) view.findViewById(R.id.lblNomeTreino);
-        textoTreino.setText("Treino de hoje: "+treino.getNome());
+
+        if(treino.getNome().isEmpty()) {
+            textoTreino.setText("Treino de hoje: Nenhum treino cadastrado");
+        }
+        else{
+            textoTreino.setText("Treino de hoje: " + treino.getNome());
+        }
 
         treinoDiarioAdapter = new TreinoDiarioAdapter(getContext(), treino.getExercicios(), onClickExercicio());
         recyclerView.setAdapter(treinoDiarioAdapter);
