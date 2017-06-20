@@ -96,6 +96,9 @@ public class MainActivity extends BaseActivity implements NavigationDrawerCallba
         else if(position == 4){
             replaceFragment(new ListaTreinosFragment());
         }
+        else if(position == 5){
+            replaceFragment(new ListaTreinosFragment());
+        }
         else{
             Toast.makeText(MainActivity.this,"Opção Inválida", Toast.LENGTH_LONG).show();
         }

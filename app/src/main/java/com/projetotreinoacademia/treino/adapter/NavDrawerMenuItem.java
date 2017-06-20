@@ -25,6 +25,7 @@ public class NavDrawerMenuItem {
         list.add(new NavDrawerMenuItem(R.string.cadastro_treino,R.drawable.cadastro_treino));
         list.add(new NavDrawerMenuItem(R.string.exercicios_cadastrados,R.drawable.exercicios_cadastrados));
         list.add(new NavDrawerMenuItem(R.string.treinos_cadastrados,R.drawable.treinos_cadastrados));
+        list.add(new NavDrawerMenuItem(R.string.localizar_academias,R.drawable.localizar_academias));
 
         return list;
     }
