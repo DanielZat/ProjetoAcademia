@@ -1,5 +1,6 @@
 package com.projetotreinoacademia.treino.activity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v4.app.Fragment;
@@ -97,7 +98,8 @@ public class MainActivity extends BaseActivity implements NavigationDrawerCallba
             replaceFragment(new ListaTreinosFragment());
         }
         else if(position == 5){
-            replaceFragment(new ListaTreinosFragment());
+            Intent it = new Intent(MainActivity.this,MapsActivity.class);
+            startActivity(it);
         }
         else{
             Toast.makeText(MainActivity.this,"Opção Inválida", Toast.LENGTH_LONG).show();

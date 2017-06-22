@@ -4,24 +4,40 @@
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable\\common_signin_btn_text_light.xml"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seletor_nav_drawer_selected.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\src\\main\\res\\drawable\\seletor_nav_drawer_selected.xml"
-    },
-    {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exercicios_cadastrados.png",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\src\\main\\res\\drawable\\exercicios_cadastrados.png"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
@@ -32,20 +48,24 @@
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seletor_nav_drawer.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\src\\main\\res\\drawable\\seletor_nav_drawer.xml"
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_drawer_header.png",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\br.com.livroandroid\\android-utils\\1.0.0\\res\\drawable\\nav_drawer_header.png"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable\\common_signin_btn_icon_light.xml"
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable\\common_signin_btn_icon_light.xml"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\treino_diario.png",
@@ -56,16 +76,292 @@
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\treine_icon.png",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\src\\main\\res\\drawable\\treine_icon.png"
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_dark.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
     },
     {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\treinos_cadastrados.png",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\src\\main\\res\\drawable\\treinos_cadastrados.png"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_dark.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\confirmation_animation.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.1.0\\res\\drawable\\confirmation_animation.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cadastro_exercicio.png",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\src\\main\\res\\drawable\\cadastro_exercicio.png"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_media_pause_light.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_media_play_light.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.1.0\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.1.0\\res\\drawable\\close_button.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_dark.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_dark.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_button_dark.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_expand.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_group_expand.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seletor_nav_drawer_selected.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\src\\main\\res\\drawable\\seletor_nav_drawer_selected.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_dark.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_media_play_dark.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_button_connected_light.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_dark.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seletor_nav_drawer.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\src\\main\\res\\drawable\\seletor_nav_drawer.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_dark.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_collapse.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_group_collapse.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\treine_icon.png",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\src\\main\\res\\drawable\\treine_icon.png"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_dialog_close_light.xml"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\go_to_phone_animation.xml",
@@ -84,6 +380,14 @@
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
     },
     {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_button_connecting_light.xml"
+    },
+    {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
     },
@@ -92,16 +396,20 @@
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_button_light.xml"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
@@ -124,71 +432,63 @@
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\confirmation_animation.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.1.0\\res\\drawable\\confirmation_animation.xml"
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_forward30.xml"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cadastro_treino.png",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\src\\main\\res\\drawable\\cadastro_treino.png"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\localizar_academias.png",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\src\\main\\res\\drawable\\localizar_academias.png"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_mini_controller_gradient_light.xml"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cadastro_exercicio.png",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\src\\main\\res\\drawable\\cadastro_exercicio.png"
-    },
-    {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\11.0.0\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.1.0\\res\\drawable\\card_background.xml"
-    },
-    {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.1.0\\res\\drawable\\close_button.xml"
-    },
-    {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
         "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     }
 ]

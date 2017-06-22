@@ -2039,9 +2039,30 @@
                     "startLine": 285,
                     "startColumn": 4,
                     "startOffset": 20784,
-                    "endLine": 287,
+                    "endLine": 286,
+                    "endColumn": 8,
+                    "endOffset": 20909
+                },
+                "from": {
+                    "file": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\11.0.0\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 172,
+                        "endLine": 5,
+                        "endColumn": 8,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 20914,
+                    "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 20954
+                    "endOffset": 21084
                 },
                 "from": {
                     "file": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v21\\values-v21.xml",
@@ -2057,12 +2078,12 @@
             },
             {
                 "to": {
-                    "startLine": 288,
+                    "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 20959,
-                    "endLine": 292,
+                    "startOffset": 21089,
+                    "endLine": 294,
                     "endColumn": 12,
-                    "endOffset": 21295
+                    "endOffset": 21425
                 },
                 "from": {
                     "file": "D:\\Senac\\AppsPosGraduacao\\ProjetoTreinoAcademia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v21\\values-v21.xml",
